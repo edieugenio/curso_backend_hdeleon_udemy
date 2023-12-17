@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xMa2FAibpiRCBKNrheOvTs+2AhCspfhPTJqUD64baYYovgCWdQ2Tkt3R3CFLbILZRhIUYIvmNVkqFuY6gIk1Rw==",
+  "dgSpecHash": "Dw/pd5yG0tjhIO6lTADSyH1QTPJKtHpl/n/phDbn+ZlvzmAYUJM/OiqqdKAbfmgy9M7KrgTHf2vHCjeCuYJ69Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eduardo\\source\\repos\\curso_backend_hdeleon_udemy\\IntroCSharpBackend\\IntroCSharpBackend.csproj",
+  "projectFilePath": "C:\\Users\\Eduardo\\source\\repos\\hdeleon\\curso_backend_hdeleon_udemy\\IntroCSharpBackend\\IntroCSharpBackend.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

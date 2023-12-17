@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = IntroCSharpBackend
-build_property.ProjectDir = C:\Users\Eduardo\source\repos\curso_backend_hdeleon_udemy\IntroCSharpBackend\
+build_property.ProjectDir = C:\Users\Eduardo\source\repos\hdeleon\curso_backend_hdeleon_udemy\IntroCSharpBackend\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
